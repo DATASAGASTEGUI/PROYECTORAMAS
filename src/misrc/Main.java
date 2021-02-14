@@ -57,14 +57,14 @@ public class Main {
     public static void sagasteguisuma() {
         System.out.print("\nSUMA");
         System.out.print("\n====");
-        System.out.println("\n");
+        System.out.println("\nOK SUMA");
         
     }
 
     public static void sagasteguiresta() {
         System.out.print("\nRESTA");
         System.out.print("\n=====");
-        System.out.println("\n");
+        System.out.println("\nOK RESTA");
     }
 
     public static void waltermultiplicacion() {
