@@ -63,7 +63,7 @@ public class Main {
     public static void sagasteguiresta() {
         System.out.print("\nRESTA");
         System.out.print("\n=====");
-        System.out.println("\nOK RESTA");
+        System.out.println("\nOK RESTA ESTO LO PUEDES HACER MEJOR SOY WALTER DE ESTA MANERA");
     }
 
     public static void waltermultiplicacion() {
