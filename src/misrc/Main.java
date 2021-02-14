@@ -58,7 +58,6 @@ public class Main {
         System.out.print("\nSUMA");
         System.out.print("\n====");
         System.out.println("\nOK SUMA TUBE QUE CAMBIARLO POR LAGO MEJOR");
-        
     }
 
     public static void sagasteguiresta() {
@@ -77,6 +76,10 @@ public class Main {
         System.out.print("\nDIVISION");
         System.out.print("\n========");
         System.out.println("\nOK DIVISION REVISADO Y ACTUALIZADO");
+    }
+    
+    public static void algonuevo() {
+        System.out.println();
     }
 
     public static void cls() {
