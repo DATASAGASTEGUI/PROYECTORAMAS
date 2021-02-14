@@ -57,7 +57,7 @@ public class Main {
     public static void sagasteguisuma() {
         System.out.print("\nSUMA");
         System.out.print("\n====");
-        System.out.println("\nOK SUMA");
+        System.out.println("\nOK SUMA TUBE QUE CAMBIARLO POR LAGO MEJOR");
         
     }
 
