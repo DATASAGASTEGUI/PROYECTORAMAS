@@ -70,7 +70,7 @@ public class Main {
     public static void waltermultiplicacion() {
         System.out.print("\nMULTIPLICACION");
         System.out.print("\n==============");
-        System.out.println("\n");
+        System.out.println("\nOK MULTIPLICACION");
     }
 
     public static void walterdivision() {
