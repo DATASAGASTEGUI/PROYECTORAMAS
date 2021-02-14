@@ -76,7 +76,7 @@ public class Main {
     public static void walterdivision() {
         System.out.print("\nDIVISION");
         System.out.print("\n========");
-        System.out.println("\nOK DIVISION");
+        System.out.println("\nOK DIVISION REVISADO Y ACTUALIZADO");
     }
 
     public static void cls() {
